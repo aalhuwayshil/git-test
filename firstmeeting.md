@@ -1,5 +1,5 @@
 
-# X-S&P RG
+# λ(X)-S&P RG
 
 - Send email to everyone in the department.
 
